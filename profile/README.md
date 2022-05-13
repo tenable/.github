@@ -20,12 +20,13 @@
 
 <h3 align="center">Contribute to Tenable.cs open source projects</h3>
 <p align="center">🌟 Give a Gitstar </p>
-<p align="center">
-- <a href="https://github.com/tenable/terrascan"> terrascan </a> - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure..
-- <a href="https://github.com/tenable/terrascan-rego-editor"> terrascan rego editor </a> - Visual Studio Code extension for writing Terrascan Rego policies
-- <a href="https://github.com/tenable/KaiMonkey"> kaiMonkey </a> - KaiMonkey provides example vulnerable infrastructure to help cloud security, DevSecOps and DevOps teams explore and understand common cloud security threats exposed via infrastructure as code.
-</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/tenable-mycompany/?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/tenableinc/)](https://www.linkedin.com/company/tenableinc/mycompany/)
+## OSS Project 
+- [Terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.. <br>
+- [Terrascan Rego Editor](https://github.com/tenable/terrascan-rego-editor)  - Visual Studio Code extension for writing Terrascan Rego policies <br>
+- [kaiMonkey](https://github.com/tenable/KaiMonkey) - KaiMonkey provides example vulnerable infrastructure to help cloud security, DevSecOps and DevOps teams explore and understand common cloud security threats exposed via infrastructure as code. 
+
+
+[![Linkedin Badge](https://img.shields.io/badge/tenable-mycompany/?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/tenableinc/)](https://www.linkedin.com/company/tenableinc/)
 [![Instagram Badge](https://img.shields.io/badge/tenable-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/tenablesecurity/)](https://www.instagram.com/tenablesecurity/)
 [![Youtube Badge](https://img.shields.io/badge/-tenable-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/user/tenablesecurity)](https://www.youtube.com/user/tenablesecurity)
