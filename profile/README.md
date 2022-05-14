@@ -1,4 +1,4 @@
-<div align="center"><img class="tio-logo" src="https://static.tenable.com/press/logos/TenableLogo_FullColor_RGB.png" alt="Tenable"></div>
+<div align="center"><img width="75%" height="75%" src="https://static.tenable.com/press/logos/TenableLogo_FullColor_RGB.png" alt="Tenable"></div>
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/tenable" alt="profile views"> •
@@ -21,10 +21,10 @@
 <h3 align="center">Contribute to Tenable.cs open source projects</h3>
 <p align="center">🌟 Give a Gitstar </p>
 
-## OSS Project 
+## OSS Project
 - [Terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.. <br>
 - [Terrascan Rego Editor](https://github.com/tenable/terrascan-rego-editor)  - Visual Studio Code extension for writing Terrascan Rego policies <br>
-- [kaiMonkey](https://github.com/tenable/KaiMonkey) - KaiMonkey provides example vulnerable infrastructure to help cloud security, DevSecOps and DevOps teams explore and understand common cloud security threats exposed via infrastructure as code. 
+- [kaiMonkey](https://github.com/tenable/KaiMonkey) - KaiMonkey provides example vulnerable infrastructure to help cloud security, DevSecOps and DevOps teams explore and understand common cloud security threats exposed via infrastructure as code.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/tenable-mycompany/?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/tenableinc/)](https://www.linkedin.com/company/tenableinc/)
