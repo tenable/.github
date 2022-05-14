@@ -1,6 +1,6 @@
 <div align="center"><img width="65%" height="65%" src="https://static.tenable.com/press/logos/TenableLogo_FullColor_RGB.png" alt="Tenable"></div>
 
-<p align="center">
+<div style="text-align:center">
   <a href="https://twitter.com/intent/follow?screen_name=TenableSecurity&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/TenableSecurity?label=%40TenableSecurity&style=social"></a>
   [![Linkedin Badge](https://img.shields.io/badge/tenable-mycompany/?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/tenableinc/)](https://www.linkedin.com/company/tenableinc/)
   [![Instagram Badge](https://img.shields.io/badge/tenable-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/tenablesecurity/)](https://www.instagram.com/tenablesecurity/)
@@ -8,7 +8,7 @@
   <a href="https://www.tenable.com"> Tenable Website</a> •
    <a href="https://runterrascan.io"> Terrascan Website</a> •
 
-</p>
+</div>
 
 <p align="center">
     Join the Tenable Community on Discord
