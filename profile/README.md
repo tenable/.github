@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-    Join the Tenable Community on Discord
+    Join the <a href="https://discord.gg/59vwVuGyGr">Tenable Community</a> on Discord
 <br/>
 <a href="https://discord.gg/59vwVuGyGr">
     <img src="http://fig.io/icons/discord-logo-square.png" width="80px" height="80px" />
