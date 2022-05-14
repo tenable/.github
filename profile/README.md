@@ -1,7 +1,6 @@
-<div align="center"><img width="75%" height="75%" src="https://static.tenable.com/press/logos/TenableLogo_FullColor_RGB.png" alt="Tenable"></div>
+<div align="center"><img width="65%" height="65%" src="https://static.tenable.com/press/logos/TenableLogo_FullColor_RGB.png" alt="Tenable"></div>
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/tenable" alt="profile views"> •
   <a href="https://twitter.com/intent/follow?screen_name=TenableSecurity&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/TenableSecurity?label=%40TenableSecurity&style=social"></a>  •
   <a href="https://www.tenable.com"> Tenable Website</a> •
    <a href="https://runterrascan.io"> Terrascan Website</a> •
@@ -16,13 +15,13 @@
 </a>
 </p>
 
-<h3 align="center"><a href="https://www.tenable.com/products/tenable-cs/evaluate"> SCHEDULE A LIVE PRODUCT DEMO  </a></h3>
+<h3 align="center"><a href="https://www.tenable.com/products/tenable-cs/evaluate"> SCHEDULE A LIVE PRODUCT DEMO</a></h3>
 
-<h3 align="center">Contribute to Tenable.cs open source projects</h3>
+<h3 align="center">Contribute to Tenable open source projects</h3>
 <p align="center">🌟 Give a Gitstar </p>
 
-## OSS Project
-- [Terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.. <br>
+## OSS Projects
+- [Terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud-native infrastructure. <br>
 - [Terrascan Rego Editor](https://github.com/tenable/terrascan-rego-editor)  - Visual Studio Code extension for writing Terrascan Rego policies <br>
 - [kaiMonkey](https://github.com/tenable/KaiMonkey) - KaiMonkey provides example vulnerable infrastructure to help cloud security, DevSecOps and DevOps teams explore and understand common cloud security threats exposed via infrastructure as code.
 
