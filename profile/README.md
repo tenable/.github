@@ -10,14 +10,6 @@
    <a href="https://runterrascan.io"> Terrascan Website</a> •
 </p>
 
-<p align="center">
-    Join the <a href="https://discord.gg/59vwVuGyGr">Tenable Community</a> on Discord
-<br/>
-<a href="https://discord.gg/59vwVuGyGr">
-    <img src="http://fig.io/icons/discord-logo-square.png" width="80px" height="80px" />
-</a>
-</p>
-
 <h3 align="center"><a href="https://www.tenable.com/products/tenable-cs/evaluate"> SCHEDULE A LIVE PRODUCT DEMO</a></h3>
 
 <h3 align="center">Contribute to Tenable open source projects</h3>
